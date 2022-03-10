@@ -1,2 +1,2 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=tph00300)](https://solved.ac/tph00300)
+프로필](https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=tph00300)](https://solved.ac/tph00300)
