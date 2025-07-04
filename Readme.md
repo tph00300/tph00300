@@ -20,7 +20,7 @@ I'm <b>Taekyung Lee</b>, Backend Engineer from <b>Seoul, Korea</b> 🇰🇷 </p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-#### Algorithm & Problem Solving
+#### 💡 Algorithm & Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tph00300)](https://solved.ac/tph00300)
 
 #### 📫 How to reach me
